@@ -2209,7 +2209,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ccc",
+        href: "https://twitter.com/MuscleFinance",
     },
 ];
 var MENU_HEIGHT = 64;
