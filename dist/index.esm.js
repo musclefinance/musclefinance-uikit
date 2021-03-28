@@ -2150,7 +2150,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "/nft",
+        href: "https://t.me/musclefinance",
         // items: [
         //    {
         //        label: "English",
