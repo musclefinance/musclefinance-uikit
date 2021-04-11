@@ -1997,7 +1997,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     WrestlingIcon: Icon$T3,
     LottoIcon: Icon$T4,
     HodlIcon: Icon$T5,
-    ParthenonIcon: Icon$T5,
+    ParthenonIcon: Icon$T6,
     SunIcon: Icon$U,
     TelegramIcon: Icon$V,
     TicketIcon: Icon$W,
