@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/musclefinance",
       },
       // {
       //   label: "Bahasa Indonesia",

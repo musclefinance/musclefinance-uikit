@@ -2156,7 +2156,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "/nft",
+        href: "https://t.me/musclefinance",
         // items: [
         //    {
         //        label: "English",
@@ -2215,7 +2215,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ccc",
+        href: "https://twitter.com/MuscleFinance",
     },
 ];
 var MENU_HEIGHT = 64;
